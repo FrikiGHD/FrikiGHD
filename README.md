@@ -1,8 +1,6 @@
-<h1>Hey there! 👋</h1>
-<h2>I'm FrikiHD and I'm learning on how to develop Discord Bots</h2>
-<br></br>
+<h1>Hey there! 👋 <br>I'm FrikiHD and I'm learning on how to develop Discord Bots</h1></br>
 
-💻 Scripting languages:
+**💻 Scripting languages:**
 
 <ul>
 <li>JavaScript</li>
@@ -10,13 +8,13 @@
 <li>CSS</li>
 </ul>
 
-👷‍♂️ Working on:
+**👷‍♂️ Working on:**
 
 <ul>
 <li>Blu</li>
 </ul>
 
-🌐 Social media:
+**🌐 Social media:**
 <ul>
   <li><a href="https://discord.com/users/340203396500029441">Discord</a></li>
   <li><a href="https://twitter.com/FrikiHD1">Twitter</a></li>
