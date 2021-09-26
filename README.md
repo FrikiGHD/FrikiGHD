@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @FrikiGHD
-- 👀 I’m interested in scripting, gaming, anime and manga and drawing
-- 🌱 I’m currently learning html, css and javascript
-- 📫 How to reach me: FrikiHD#6631
+**Hey there! 👋 
+I'm FrikiHD and I'm learning on how to develop Discord Bots**
+<br></br>
 
-<!---
-FrikiGHD/FrikiGHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Scripting languages:
+
+<ul>
+<li>JavaScript</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+
+👷‍♂️ Working on:
+
+<ul>
+<li>Blu</li>
+</ul>
+
+🌐 Social media:
+<ul>
+  <li><a href="https://discord.com/users/340203396500029441">Discord</a></li>
+  <li><a href="https://twitter.com/FrikiHD1">Twitter</a></li>
+</ul>
+
+🖥 Discord servers:
+<ul>
+  <li><a href="https://discord.com/invite/HxtfVBrEeE">Dragón Blanco Dragón Negro (DBDN)</a></li>
+  <li><a href="https://discord.com/invite/mqtkXJ9Xxv">Heroesn't</a></li>
+</ul>
