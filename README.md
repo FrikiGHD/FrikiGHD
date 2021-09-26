@@ -1,5 +1,5 @@
-**Hey there! 👋 
-I'm FrikiHD and I'm learning on how to develop Discord Bots**
+<h1>Hey there! 👋</h1>
+<h2>I'm FrikiHD and I'm learning on how to develop Discord Bots</h2>
 <br></br>
 
 💻 Scripting languages:
