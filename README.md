@@ -25,3 +25,5 @@
   <li><a href="https://discord.com/invite/HxtfVBrEeE">Dragón Blanco Dragón Negro (DBDN)</a></li>
   <li><a href="https://discord.com/invite/mqtkXJ9Xxv">Heroesn't</a></li>
 </ul>
+
+![](https://github-readme-stats.vercel.app/api?username=FrikiGHD)
