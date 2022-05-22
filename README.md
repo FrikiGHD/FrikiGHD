@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frikighd&label=Profile%20views&color=0e75b6&style=flat" alt="frikighd" /> </p>
 
-- 💻 My Discord Servers 
-    \n· <a href="https://discord.com/invite/HxtfVBrEeE">[Dragón Blanco Dragón Negro (DBDN)]</a>
-    \n· <a href="https://discord.com/invite/mqtkXJ9Xxv">[Heroesn't]</a>
+- 💻 My Discord Servers: 
+<a href="https://discord.com/invite/HxtfVBrEeE">[Dragón Blanco Dragón Negro (DBDN)]</a> | 
+<a href="https://discord.com/invite/mqtkXJ9Xxv">[Heroesn't]</a>
 
 - 👨‍🎓 I’m currently learning **JavaScript, HTML & CSS, Python**
 
